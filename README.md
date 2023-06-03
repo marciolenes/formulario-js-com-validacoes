@@ -17,4 +17,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Formulário em Javascript [com Validações]](https://relogiodigitaldinamico.netlify.app)
+- [Formulário em Javascript [com Validações]](https://formulario-js-com-validacoes.netlify.app/)
